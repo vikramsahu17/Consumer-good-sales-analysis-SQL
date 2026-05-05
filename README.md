@@ -1,4 +1,4 @@
-# 🛒 Consumer Goods Sales Analysis | SQL Project
+# 🛒  Executive management Consumer Goods  | SQL Project
 
 ## 📊 Overview
 This project analyzes sales data of a consumer goods company using SQL to generate actionable business insights.
